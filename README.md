@@ -1,3 +1,4 @@
+Thanks to authors for making this available on github
 Robochameleon
 =============
 Robochameleon is a coding framework and component library for simulation and experimental analysis of optical communication systems.  
